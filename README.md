@@ -1,4 +1,4 @@
-### Hi there 👋
+<h3 align="center">Hi there 👋</h3>
 
 <h3 align="center">📚 STACKS 📚</h3>
 <p align="center">
